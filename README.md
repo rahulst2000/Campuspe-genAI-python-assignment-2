@@ -1,6 +1,7 @@
-# Campuspe-genAI-python-assignment-2
-# Python Programming Assignment
+NAME : RAHUL S T
+Email : rjrahulreddy@gmail.com
 
+# Campuspe-genAI-python-assignment-2
 This repository contains Python programs created as part of a programming assignment.  
 Each program demonstrates basic to advanced Python concepts such as input handling, conditions, loops, and functions.
 
@@ -124,8 +125,27 @@ Output: Binary, octal, hexadecimal
 - Functions  
 - Arithmetic operations  
 - String processing  
+## ⚠️ Challenges Faced While Pushing Code to GitHub
 
----
+- Difficulty finding the repository URL (origin link)  
+- Git not initialized in the correct project folder  
+- Forgetting to add or commit files before pushing  
+- Push rejected because remote repository already had files  
+- Merge conflicts while pulling changes from GitHub  
+- Authentication issues while logging into GitHub from terminal  
+- Confusion between branch names (main vs master)  
+- Files not appearing on GitHub due to missing push command  
+- Path or folder structure mistakes while adding screenshots  
+
+
+## ✅ How These Were Resolved
+
+- Verified repository link from GitHub **Code → HTTPS**  
+- Used `git status` to check file tracking  
+- Pulled remote changes before pushing  
+- Resolved merge conflicts manually  
+- Ensured correct branch before push  
+- Followed proper Git workflow: add → commit → push  
 
 ## ▶️ How to Run
 

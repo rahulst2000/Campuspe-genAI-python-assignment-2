@@ -1,6 +1,6 @@
 while True:
     Num_one = float(input("Enter the first number : "))
-    operator = input("Enter_operator +,-,*, or / : ")
+    operator = input("Enter_operator +,-,*, / : ")
     Num_two = float(input("Enter the second number : "))
     if operator == "+":
         sum = Num_one + Num_two
